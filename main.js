@@ -180,7 +180,7 @@ document.addEventListener('DOMContentLoaded', () => {
           <div class="foto-decorada">
             <span class="emoji-foto emoji-foto-izq">💖</span>
             <div id="preview-foto" class="preview-foto">
-              <img src="img/ella.jpg" alt="Foto de ella" class="img-preview">
+              <img src="ella.jpg" alt="Foto de ella" class="img-preview">
             </div>
             <span class="emoji-foto emoji-foto-der">✨</span>
           </div>
